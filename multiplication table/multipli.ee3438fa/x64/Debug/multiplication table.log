@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\seyeo\OneDrive\CJU\2-2\공학컴퓨터프로그래밍\loop\multiplication table\main.cpp(15,12): warning C4804: '<=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\Users\seyeo\OneDrive\CJU\2-2\공학컴퓨터프로그래밍\loop\multiplication table\main.cpp(15,17): warning C4144: '<=': 관계식을 switch 식으로 사용했습니다.
+  multiplication table.vcxproj -> C:\Users\seyeo\OneDrive\CJU\2-2\공학컴퓨터프로그래밍\loop\multiplication table\x64\Debug\multiplication table.exe
